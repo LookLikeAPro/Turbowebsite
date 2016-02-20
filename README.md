@@ -29,7 +29,7 @@ Turbowebsite is in a basic stage right now, being only able to speed up a static
 
 ## Example usage
 
-	[looklikeapro.github.io](http://looklikeapro.github.io)
+[looklikeapro.github.io](http://looklikeapro.github.io)
 
 ## Development
 
