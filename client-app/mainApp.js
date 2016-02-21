@@ -50,7 +50,8 @@ function inital() {
 
 function fetchPage(url) {
 	var headers = new Headers();
-	headers.append("X-PJAX");
+	// this is not used
+	// headers.append("X-PJAX", "");
 	return fetch(url, {
 		method: "GET",
 		headers: headers
